@@ -1,0 +1,44 @@
+button.btn-info {
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.input-group {
+    position: relative;
+    width: 100%;
+    margin-top: -28px;
+    margin-bottom: 8px;
+    margin-left: 330px;
+}
+
+button.btn.btn-primary.search12 {
+    margin-left: 36px;
+    margin-right: -326px;
+}
+
+.inputpart.row {
+    margin-top: -80px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+button.btn.btn-primary.enter {
+    margin-left: 650px;
+    margin-top: 20px;
+}
+
+.inputdata {
+    background: #d1d1d1;
+}
+
+#myInput {
+    background-image: url('images/search.jpg');
+    background-position: 8px 8px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+    margin-top: -26px;
+}

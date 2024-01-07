@@ -1,0 +1,70 @@
+.myrows {
+    border: 3px solid green;
+    padding: 5px;
+}
+
+.mycols {
+    border: 3px solid red;
+}
+
+.mycontainer {
+    background-color: aqua;
+}
+
+#topheader {
+    background-color: #05386B;
+    border-bottom: 1px solid silver;
+}
+
+
+
+.navbar-collapse {
+    color: #F9C200;
+}
+
+
+.full-footer {
+    background-color: #05386B;
+}
+
+
+
+.bottom-footer {
+    background-color: black;
+}
+
+.bottom-footer p {
+    color: white;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.img-fluid {
+    background-color: #F9C200;
+}
+
+
+/* Start : Home Page top-home-section*/
+
+
+
+
+/* Counter Section */
+
+.counter-section {
+    background-color: #E8A87C;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.counter {
+    font-weight: 600;
+    font-size: 70px;
+}
+
+.breadcrumbs-section {
+    background-color: #e9ecef;
+}

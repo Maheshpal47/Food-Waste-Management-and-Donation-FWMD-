@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+    font-family: Sylfaen;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+  
+}
+body
+{
+	background-image: linear-gradient(to right, #F7FFFF,#C9C9C9);
+	
+}
+.navbar
+{
+	box-shadow: 0px 8px 10px darkgray;
+}
+.jumbotron
+{
+	background : url(img3.jpg);
+	
+
+    width: 100%;
+    height: 400px;
+    background-repeat:round;
+    color: white;
+    padding: 120px;
+
+}
+h1.text{
+
+	 font-size: 100px;
+    text-shadow: 15px 20px 30px whitesmoke;
+    text-align: center;
+    text-decoration-style: solid;
+
+}
+p.text1{
+	font-size: 30px;
+	text-align: center;
+    text-decoration-style: solid;
+
+
+}
+p.textbox
+{
+	font-size: 20px;
+	font-family: fantasy;
+	text-align: center;
+	color: darkslategray;
+
+}
+p.textb{
+
+	font-size: 30px;
+	font-family: fantasy;
+	text-align: center;
+	color: darkgrey;
+
+}
+
+
+.container
+{  
+	background-color: lightgrey;
+	
+}
+.hr 
+{
+		height: 400px;
+
+
+}
+
+
+.box1
+{
+
+	background-image: linear-gradient( #E7E6E4, #D6CFC8);
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    border-radius: 10px;
+   	  margin: 54px;
+
+   
+}
+.others
+{
+
+	background-image: linear-gradient(to left top, #F7FFFF,#C9C9C9);
+
+}
+.but 
+{
+	text-align: center;
+}
+
+
